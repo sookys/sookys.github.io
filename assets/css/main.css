@@ -752,6 +752,7 @@ input, select, textarea {
 
 .video {
 	height: 22rem;
+	width: 100%;
 	margin-bottom: 2rem;
 }
 
