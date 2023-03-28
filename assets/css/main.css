@@ -732,6 +732,7 @@ input, select, textarea {
 }
 
 #portfolio h3{
+	padding-top: 2rem;
 	margin-bottom: -2rem;
 }
 
@@ -746,13 +747,17 @@ input, select, textarea {
 
 /* WORK */
 
+html {
+	scroll-behavior: smooth;
+}
+
 #work img {
 	width: 100%;
 }
 
 .video {
-	height: 22rem;
 	width: 100%;
+	height: 22rem;
 	margin-bottom: 2rem;
 }
 
