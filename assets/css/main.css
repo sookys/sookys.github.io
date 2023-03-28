@@ -982,6 +982,12 @@ input[name="r"]{
 	padding-top: 10px;
 }
 
+#tothetop {
+	padding: 1rem;
+	text-align: center;
+	text-decoration: underline;
+}
+
 ol {
 list-style: decimal;
 margin: 0 0 2rem 0;
